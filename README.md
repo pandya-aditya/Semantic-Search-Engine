@@ -87,6 +87,3 @@ This project leverages the following open-source projects:
 - [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [FARM](https://github.com/deepset-ai/FARM)
-```
-
-Save this as a `README.md` file in your project directory, and it will be properly formatted for Markdown display on platforms like GitHub.
